@@ -1,6 +1,6 @@
 {
   "chat": "HCM",
-  "exported_at": "2026-06-19 15:30:10",
+  "exported_at": "2026-06-19 17:59:33",
   "players": [
     "Chris Hampson",
     "Conor Murphy",
@@ -199,6 +199,18 @@
         81
       ],
       "total": 772
+    },
+    {
+      "date": "2026-06-19",
+      "player": "Chris Hampson",
+      "rounds": [
+        88,
+        95,
+        96,
+        81,
+        69
+      ],
+      "total": 825
     },
     {
       "date": "2026-06-19",
