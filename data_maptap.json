@@ -1,6 +1,6 @@
 {
   "chat": "maptap",
-  "exported_at": "2026-06-19 17:59:33",
+  "exported_at": "2026-06-20 11:40:14",
   "players": [
     "Brennan Murphy",
     "Conor Murphy",
@@ -577,6 +577,18 @@
     },
     {
       "date": "2026-06-19",
+      "player": "Brennan Murphy",
+      "rounds": [
+        86,
+        87,
+        98,
+        97,
+        95
+      ],
+      "total": 945
+    },
+    {
+      "date": "2026-06-19",
       "player": "Conor Murphy",
       "rounds": [
         95,
@@ -622,6 +634,66 @@
         74
       ],
       "total": 890
+    },
+    {
+      "date": "2026-06-20",
+      "player": "Brennan Murphy",
+      "rounds": [
+        99,
+        73,
+        84,
+        69,
+        49
+      ],
+      "total": 694
+    },
+    {
+      "date": "2026-06-20",
+      "player": "Conor Murphy",
+      "rounds": [
+        97,
+        72,
+        61,
+        79,
+        78
+      ],
+      "total": 762
+    },
+    {
+      "date": "2026-06-20",
+      "player": "Danny Murphy",
+      "rounds": [
+        98,
+        87,
+        85,
+        93,
+        85
+      ],
+      "total": 889
+    },
+    {
+      "date": "2026-06-20",
+      "player": "Frank Murphy",
+      "rounds": [
+        96,
+        98,
+        89,
+        98,
+        100
+      ],
+      "total": 966
+    },
+    {
+      "date": "2026-06-20",
+      "player": "Nonni Murphy",
+      "rounds": [
+        95,
+        97,
+        80,
+        97,
+        71
+      ],
+      "total": 856
     }
   ]
 }
