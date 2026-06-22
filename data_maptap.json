@@ -1,6 +1,6 @@
 {
   "chat": "maptap",
-  "exported_at": "2026-06-22 09:37:08",
+  "exported_at": "2026-06-22 09:47:11",
   "players": [
     "Brennan Murphy",
     "Conor Murphy",
@@ -12,402 +12,6 @@
   ],
   "scores": [
     {
-      "date": "2026-05-20",
-      "player": "Brennan Murphy",
-      "rounds": [
-        95,
-        95,
-        95,
-        1,
-        88
-      ],
-      "total": 647
-    },
-    {
-      "date": "2026-05-20",
-      "player": "Danny Murphy",
-      "rounds": [
-        93,
-        98,
-        97,
-        87,
-        86
-      ],
-      "total": 904
-    },
-    {
-      "date": "2026-05-20",
-      "player": "Frank Murphy",
-      "rounds": [
-        95,
-        96,
-        95,
-        73,
-        93
-      ],
-      "total": 879
-    },
-    {
-      "date": "2026-05-20",
-      "player": "Mary Zach Murphy",
-      "rounds": [
-        98,
-        98,
-        99,
-        92,
-        92
-      ],
-      "total": 946
-    },
-    {
-      "date": "2026-05-20",
-      "player": "Nonni Murphy",
-      "rounds": [
-        95,
-        99,
-        96,
-        89,
-        79
-      ],
-      "total": 890
-    },
-    {
-      "date": "2026-05-21",
-      "player": "Danny Murphy",
-      "rounds": [
-        99,
-        97,
-        90,
-        85,
-        96
-      ],
-      "total": 919
-    },
-    {
-      "date": "2026-05-21",
-      "player": "Frank Murphy",
-      "rounds": [
-        99,
-        96,
-        98,
-        87,
-        59
-      ],
-      "total": 829
-    },
-    {
-      "date": "2026-05-21",
-      "player": "Mary Zach Murphy",
-      "rounds": [
-        100,
-        95,
-        84,
-        85,
-        90
-      ],
-      "total": 888
-    },
-    {
-      "date": "2026-05-21",
-      "player": "Nonni Murphy",
-      "rounds": [
-        99,
-        95,
-        73,
-        82,
-        87
-      ],
-      "total": 847
-    },
-    {
-      "date": "2026-05-21",
-      "player": "Wyatt Murphy",
-      "rounds": [
-        96,
-        95,
-        93,
-        85,
-        95
-      ],
-      "total": 917
-    },
-    {
-      "date": "2026-05-22",
-      "player": "Brennan Murphy",
-      "rounds": [
-        97,
-        99,
-        57,
-        93,
-        53
-      ],
-      "total": 748
-    },
-    {
-      "date": "2026-05-22",
-      "player": "Danny Murphy",
-      "rounds": [
-        95,
-        98,
-        74,
-        77,
-        28
-      ],
-      "total": 656
-    },
-    {
-      "date": "2026-05-22",
-      "player": "Frank Murphy",
-      "rounds": [
-        95,
-        95,
-        47,
-        94,
-        38
-      ],
-      "total": 680
-    },
-    {
-      "date": "2026-05-22",
-      "player": "Mary Zach Murphy",
-      "rounds": [
-        91,
-        98,
-        95,
-        95,
-        29
-      ],
-      "total": 751
-    },
-    {
-      "date": "2026-05-22",
-      "player": "Nonni Murphy",
-      "rounds": [
-        97,
-        99,
-        57,
-        93,
-        53
-      ],
-      "total": 748
-    },
-    {
-      "date": "2026-05-23",
-      "player": "Brennan Murphy",
-      "rounds": [
-        98,
-        95,
-        95,
-        69,
-        87
-      ],
-      "total": 851
-    },
-    {
-      "date": "2026-05-23",
-      "player": "Danny Murphy",
-      "rounds": [
-        98,
-        93,
-        96,
-        98,
-        95
-      ],
-      "total": 962
-    },
-    {
-      "date": "2026-05-23",
-      "player": "Frank Murphy",
-      "rounds": [
-        98,
-        97,
-        90,
-        98,
-        91
-      ],
-      "total": 942
-    },
-    {
-      "date": "2026-05-23",
-      "player": "Mary Zach Murphy",
-      "rounds": [
-        100,
-        99,
-        98,
-        98,
-        85
-      ],
-      "total": 944
-    },
-    {
-      "date": "2026-05-23",
-      "player": "Nonni Murphy",
-      "rounds": [
-        100,
-        70,
-        91,
-        82,
-        88
-      ],
-      "total": 862
-    },
-    {
-      "date": "2026-05-24",
-      "player": "Conor Murphy",
-      "rounds": [
-        96,
-        95,
-        97,
-        95,
-        95
-      ],
-      "total": 955
-    },
-    {
-      "date": "2026-05-24",
-      "player": "Danny Murphy",
-      "rounds": [
-        95,
-        89,
-        95,
-        96,
-        96
-      ],
-      "total": 950
-    },
-    {
-      "date": "2026-05-24",
-      "player": "Frank Murphy",
-      "rounds": [
-        98,
-        97,
-        96,
-        99,
-        12
-      ],
-      "total": 720
-    },
-    {
-      "date": "2026-05-24",
-      "player": "Mary Zach Murphy",
-      "rounds": [
-        99,
-        95,
-        96,
-        99,
-        87
-      ],
-      "total": 944
-    },
-    {
-      "date": "2026-05-25",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        97,
-        98,
-        89,
-        86
-      ],
-      "total": 918
-    },
-    {
-      "date": "2026-05-25",
-      "player": "Danny Murphy",
-      "rounds": [
-        99,
-        100,
-        97,
-        64,
-        83
-      ],
-      "total": 834
-    },
-    {
-      "date": "2026-05-25",
-      "player": "Frank Murphy",
-      "rounds": [
-        95,
-        97,
-        95,
-        79,
-        92
-      ],
-      "total": 895
-    },
-    {
-      "date": "2026-05-25",
-      "player": "Mary Zach Murphy",
-      "rounds": [
-        99,
-        98,
-        98,
-        98,
-        85
-      ],
-      "total": 942
-    },
-    {
-      "date": "2026-05-25",
-      "player": "Nonni Murphy",
-      "rounds": [
-        95,
-        98,
-        96,
-        92,
-        93
-      ],
-      "total": 940
-    },
-    {
-      "date": "2026-05-26",
-      "player": "Conor Murphy",
-      "rounds": [
-        97,
-        92,
-        90,
-        89,
-        86
-      ],
-      "total": 894
-    },
-    {
-      "date": "2026-05-26",
-      "player": "Danny Murphy",
-      "rounds": [
-        96,
-        92,
-        88,
-        61,
-        87
-      ],
-      "total": 808
-    },
-    {
-      "date": "2026-05-26",
-      "player": "Frank Murphy",
-      "rounds": [
-        97,
-        90,
-        72,
-        73,
-        82
-      ],
-      "total": 796
-    },
-    {
-      "date": "2026-05-26",
-      "player": "Nonni Murphy",
-      "rounds": [
-        99,
-        89,
-        95,
-        64,
-        87
-      ],
-      "total": 831
-    },
-    {
       "date": "2026-05-27",
       "player": "Danny Murphy",
       "rounds": [
@@ -418,30 +22,6 @@
         77
       ],
       "total": 750
-    },
-    {
-      "date": "2026-05-27",
-      "player": "Frank Murphy",
-      "rounds": [
-        99,
-        99,
-        98,
-        75,
-        90
-      ],
-      "total": 889
-    },
-    {
-      "date": "2026-05-27",
-      "player": "Nonni Murphy",
-      "rounds": [
-        98,
-        95,
-        78,
-        95,
-        68
-      ],
-      "total": 838
     },
     {
       "date": "2026-05-28",
@@ -507,25 +87,25 @@
       "date": "2026-05-30",
       "player": "Danny Murphy",
       "rounds": [
-        100,
-        84,
-        89,
-        74,
-        98
+        98,
+        95,
+        94,
+        94,
+        99
       ],
-      "total": 856
+      "total": 960
     },
     {
       "date": "2026-05-30",
       "player": "Frank Murphy",
       "rounds": [
-        100,
-        84,
-        89,
-        74,
-        98
+        95,
+        95,
+        95,
+        96,
+        94
       ],
-      "total": 856
+      "total": 950
     },
     {
       "date": "2026-05-30",
@@ -627,13 +207,13 @@
       "date": "2026-06-01",
       "player": "Frank Murphy",
       "rounds": [
+        100,
+        96,
         98,
-        93,
-        94,
-        95,
-        94
+        91,
+        77
       ],
-      "total": 946
+      "total": 896
     },
     {
       "date": "2026-06-01",
@@ -963,25 +543,25 @@
       "date": "2026-06-08",
       "player": "Danny Murphy",
       "rounds": [
-        100,
+        98,
+        98,
         99,
-        100,
-        93,
+        92,
         97
       ],
-      "total": 969
+      "total": 961
     },
     {
       "date": "2026-06-08",
       "player": "Frank Murphy",
       "rounds": [
-        100,
-        99,
-        100,
-        93,
-        97
+        98,
+        96,
+        98,
+        97,
+        95
       ],
-      "total": 969
+      "total": 966
     },
     {
       "date": "2026-06-08",
@@ -1036,12 +616,12 @@
       "player": "Frank Murphy",
       "rounds": [
         100,
-        91,
-        63,
-        0,
-        92
+        95,
+        95,
+        96,
+        80
       ],
-      "total": 593
+      "total": 913
     },
     {
       "date": "2026-06-09",
@@ -1155,13 +735,13 @@
       "date": "2026-06-11",
       "player": "Frank Murphy",
       "rounds": [
-        95,
-        97,
         96,
-        97,
-        96
+        96,
+        95,
+        100,
+        92
       ],
-      "total": 963
+      "total": 958
     },
     {
       "date": "2026-06-11",
@@ -1275,13 +855,13 @@
       "date": "2026-06-13",
       "player": "Danny Murphy",
       "rounds": [
-        94,
+        100,
         95,
-        90,
-        96,
-        95
+        88,
+        95,
+        87
       ],
-      "total": 942
+      "total": 917
     },
     {
       "date": "2026-06-13",
@@ -1371,13 +951,13 @@
       "date": "2026-06-15",
       "player": "Danny Murphy",
       "rounds": [
-        99,
+        100,
         98,
-        98,
-        94,
-        82
+        100,
+        96,
+        80
       ],
-      "total": 921
+      "total": 926
     },
     {
       "date": "2026-06-15",
@@ -1416,270 +996,6 @@
       "total": 921
     },
     {
-      "date": "2026-06-16",
-      "player": "Conor Murphy",
-      "rounds": [
-        97,
-        99,
-        99,
-        97,
-        67
-      ],
-      "total": 886
-    },
-    {
-      "date": "2026-06-16",
-      "player": "Frank Murphy",
-      "rounds": [
-        97,
-        95,
-        97,
-        95,
-        91
-      ],
-      "total": 944
-    },
-    {
-      "date": "2026-06-16",
-      "player": "Nonni Murphy",
-      "rounds": [
-        95,
-        94,
-        95,
-        93,
-        95
-      ],
-      "total": 943
-    },
-    {
-      "date": "2026-06-17",
-      "player": "Brennan Murphy",
-      "rounds": [
-        95,
-        95,
-        95,
-        92,
-        88
-      ],
-      "total": 920
-    },
-    {
-      "date": "2026-06-17",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        95,
-        85,
-        97,
-        88
-      ],
-      "total": 919
-    },
-    {
-      "date": "2026-06-17",
-      "player": "Danny Murphy",
-      "rounds": [
-        100,
-        91,
-        76,
-        93,
-        47
-      ],
-      "total": 763
-    },
-    {
-      "date": "2026-06-17",
-      "player": "Frank Murphy",
-      "rounds": [
-        97,
-        95,
-        90,
-        98,
-        89
-      ],
-      "total": 933
-    },
-    {
-      "date": "2026-06-17",
-      "player": "Nonni Murphy",
-      "rounds": [
-        90,
-        95,
-        94,
-        99,
-        89
-      ],
-      "total": 937
-    },
-    {
-      "date": "2026-06-18",
-      "player": "Danny Murphy",
-      "rounds": [
-        97,
-        97,
-        96,
-        82,
-        62
-      ],
-      "total": 818
-    },
-    {
-      "date": "2026-06-18",
-      "player": "Frank Murphy",
-      "rounds": [
-        100,
-        97,
-        97,
-        95,
-        64
-      ],
-      "total": 868
-    },
-    {
-      "date": "2026-06-18",
-      "player": "Mary Zach Murphy",
-      "rounds": [
-        99,
-        98,
-        98,
-        95,
-        86
-      ],
-      "total": 936
-    },
-    {
-      "date": "2026-06-18",
-      "player": "Nonni Murphy",
-      "rounds": [
-        99,
-        97,
-        99,
-        90,
-        57
-      ],
-      "total": 835
-    },
-    {
-      "date": "2026-06-19",
-      "player": "Brennan Murphy",
-      "rounds": [
-        86,
-        87,
-        98,
-        97,
-        95
-      ],
-      "total": 945
-    },
-    {
-      "date": "2026-06-19",
-      "player": "Conor Murphy",
-      "rounds": [
-        95,
-        95,
-        95,
-        87,
-        95
-      ],
-      "total": 926
-    },
-    {
-      "date": "2026-06-19",
-      "player": "Danny Murphy",
-      "rounds": [
-        86,
-        97,
-        95,
-        95,
-        94
-      ],
-      "total": 940
-    },
-    {
-      "date": "2026-06-19",
-      "player": "Frank Murphy",
-      "rounds": [
-        95,
-        88,
-        99,
-        97,
-        94
-      ],
-      "total": 954
-    },
-    {
-      "date": "2026-06-19",
-      "player": "Nonni Murphy",
-      "rounds": [
-        98,
-        96,
-        99,
-        92,
-        74
-      ],
-      "total": 890
-    },
-    {
-      "date": "2026-06-20",
-      "player": "Brennan Murphy",
-      "rounds": [
-        99,
-        73,
-        84,
-        69,
-        49
-      ],
-      "total": 694
-    },
-    {
-      "date": "2026-06-20",
-      "player": "Conor Murphy",
-      "rounds": [
-        97,
-        72,
-        61,
-        79,
-        78
-      ],
-      "total": 762
-    },
-    {
-      "date": "2026-06-20",
-      "player": "Danny Murphy",
-      "rounds": [
-        98,
-        87,
-        85,
-        93,
-        85
-      ],
-      "total": 889
-    },
-    {
-      "date": "2026-06-20",
-      "player": "Frank Murphy",
-      "rounds": [
-        96,
-        98,
-        89,
-        98,
-        100
-      ],
-      "total": 966
-    },
-    {
-      "date": "2026-06-20",
-      "player": "Nonni Murphy",
-      "rounds": [
-        95,
-        97,
-        80,
-        97,
-        71
-      ],
-      "total": 856
-    },
-    {
       "date": "2026-06-22",
       "player": "Conor Murphy",
       "rounds": [
@@ -1690,18 +1006,6 @@
         80
       ],
       "total": 890
-    },
-    {
-      "date": "2026-06-22",
-      "player": "Danny Murphy",
-      "rounds": [
-        100,
-        96,
-        98,
-        62,
-        72
-      ],
-      "total": 794
     },
     {
       "date": "2026-06-22",
