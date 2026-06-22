@@ -1,6 +1,6 @@
 {
   "chat": "HCM",
-  "exported_at": "2026-06-20 11:40:14",
+  "exported_at": "2026-06-22 09:37:08",
   "players": [
     "Chris Hampson",
     "Conor Murphy",
@@ -19,6 +19,42 @@
         98
       ],
       "total": 921
+    },
+    {
+      "date": "2026-05-15",
+      "player": "Conor Murphy",
+      "rounds": [
+        91,
+        94,
+        97,
+        100,
+        93
+      ],
+      "total": 958
+    },
+    {
+      "date": "2026-05-15",
+      "player": "Henry Howe",
+      "rounds": [
+        95,
+        95,
+        98,
+        85,
+        90
+      ],
+      "total": 911
+    },
+    {
+      "date": "2026-05-15",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        91,
+        97,
+        97,
+        98,
+        95
+      ],
+      "total": 961
     },
     {
       "date": "2026-05-21",
@@ -69,6 +105,534 @@
       "total": 929
     },
     {
+      "date": "2026-05-30",
+      "player": "Conor Murphy",
+      "rounds": [
+        94,
+        93,
+        95,
+        94,
+        93
+      ],
+      "total": 938
+    },
+    {
+      "date": "2026-05-30",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        94,
+        93,
+        95,
+        94,
+        93
+      ],
+      "total": 938
+    },
+    {
+      "date": "2026-05-31",
+      "player": "Chris Hampson",
+      "rounds": [
+        95,
+        86,
+        99,
+        91,
+        99
+      ],
+      "total": 949
+    },
+    {
+      "date": "2026-05-31",
+      "player": "Conor Murphy",
+      "rounds": [
+        95,
+        87,
+        95,
+        91,
+        99
+      ],
+      "total": 942
+    },
+    {
+      "date": "2026-05-31",
+      "player": "Henry Howe",
+      "rounds": [
+        99,
+        95,
+        99,
+        95,
+        95
+      ],
+      "total": 962
+    },
+    {
+      "date": "2026-05-31",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        97,
+        93,
+        95,
+        88,
+        99
+      ],
+      "total": 941
+    },
+    {
+      "date": "2026-06-02",
+      "player": "Chris Hampson",
+      "rounds": [
+        99,
+        98,
+        95,
+        82,
+        78
+      ],
+      "total": 867
+    },
+    {
+      "date": "2026-06-02",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        95,
+        97,
+        92,
+        96
+      ],
+      "total": 953
+    },
+    {
+      "date": "2026-06-02",
+      "player": "Henry Howe",
+      "rounds": [
+        99,
+        95,
+        93,
+        92,
+        1
+      ],
+      "total": 659
+    },
+    {
+      "date": "2026-06-02",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        92,
+        92,
+        97,
+        99,
+        82
+      ],
+      "total": 921
+    },
+    {
+      "date": "2026-06-04",
+      "player": "Chris Hampson",
+      "rounds": [
+        94,
+        93,
+        98,
+        93,
+        88
+      ],
+      "total": 926
+    },
+    {
+      "date": "2026-06-04",
+      "player": "Conor Murphy",
+      "rounds": [
+        94,
+        93,
+        61,
+        88,
+        85
+      ],
+      "total": 828
+    },
+    {
+      "date": "2026-06-04",
+      "player": "Henry Howe",
+      "rounds": [
+        95,
+        95,
+        98,
+        66,
+        95
+      ],
+      "total": 869
+    },
+    {
+      "date": "2026-06-04",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        95,
+        96,
+        96,
+        94,
+        95
+      ],
+      "total": 950
+    },
+    {
+      "date": "2026-06-05",
+      "player": "Chris Hampson",
+      "rounds": [
+        93,
+        93,
+        71,
+        78,
+        78
+      ],
+      "total": 796
+    },
+    {
+      "date": "2026-06-05",
+      "player": "Conor Murphy",
+      "rounds": [
+        93,
+        92,
+        93,
+        90,
+        92
+      ],
+      "total": 917
+    },
+    {
+      "date": "2026-06-05",
+      "player": "Henry Howe",
+      "rounds": [
+        95,
+        95,
+        98,
+        91,
+        86
+      ],
+      "total": 917
+    },
+    {
+      "date": "2026-06-05",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        93,
+        98,
+        95,
+        94,
+        89
+      ],
+      "total": 930
+    },
+    {
+      "date": "2026-06-08",
+      "player": "Chris Hampson",
+      "rounds": [
+        95,
+        98,
+        96,
+        100,
+        99
+      ],
+      "total": 982
+    },
+    {
+      "date": "2026-06-08",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        99,
+        100,
+        93,
+        97
+      ],
+      "total": 969
+    },
+    {
+      "date": "2026-06-08",
+      "player": "Henry Howe",
+      "rounds": [
+        98,
+        98,
+        98,
+        95,
+        96
+      ],
+      "total": 965
+    },
+    {
+      "date": "2026-06-08",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        95,
+        95,
+        95,
+        94,
+        93
+      ],
+      "total": 941
+    },
+    {
+      "date": "2026-06-09",
+      "player": "Chris Hampson",
+      "rounds": [
+        100,
+        91,
+        63,
+        0,
+        92
+      ],
+      "total": 593
+    },
+    {
+      "date": "2026-06-09",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        91,
+        63,
+        0,
+        92
+      ],
+      "total": 593
+    },
+    {
+      "date": "2026-06-09",
+      "player": "Henry Howe",
+      "rounds": [
+        100,
+        91,
+        63,
+        0,
+        92
+      ],
+      "total": 593
+    },
+    {
+      "date": "2026-06-09",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        96,
+        95,
+        87,
+        96,
+        82
+      ],
+      "total": 899
+    },
+    {
+      "date": "2026-06-10",
+      "player": "Chris Hampson",
+      "rounds": [
+        96,
+        98,
+        82,
+        86,
+        93
+      ],
+      "total": 895
+    },
+    {
+      "date": "2026-06-10",
+      "player": "Henry Howe",
+      "rounds": [
+        98,
+        99,
+        85,
+        85,
+        65
+      ],
+      "total": 817
+    },
+    {
+      "date": "2026-06-10",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        95,
+        99,
+        82,
+        93,
+        92
+      ],
+      "total": 913
+    },
+    {
+      "date": "2026-06-11",
+      "player": "Chris Hampson",
+      "rounds": [
+        91,
+        95,
+        95,
+        86,
+        95
+      ],
+      "total": 919
+    },
+    {
+      "date": "2026-06-11",
+      "player": "Conor Murphy",
+      "rounds": [
+        99,
+        95,
+        95,
+        100,
+        100
+      ],
+      "total": 984
+    },
+    {
+      "date": "2026-06-11",
+      "player": "Henry Howe",
+      "rounds": [
+        95,
+        99,
+        93,
+        95,
+        81
+      ],
+      "total": 908
+    },
+    {
+      "date": "2026-06-11",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        95,
+        96,
+        97,
+        100,
+        98
+      ],
+      "total": 979
+    },
+    {
+      "date": "2026-06-12",
+      "player": "Chris Hampson",
+      "rounds": [
+        100,
+        97,
+        95,
+        99,
+        83
+      ],
+      "total": 933
+    },
+    {
+      "date": "2026-06-12",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        97,
+        95,
+        99,
+        83
+      ],
+      "total": 933
+    },
+    {
+      "date": "2026-06-12",
+      "player": "Henry Howe",
+      "rounds": [
+        95,
+        95,
+        100,
+        95,
+        62
+      ],
+      "total": 861
+    },
+    {
+      "date": "2026-06-12",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        100,
+        95,
+        95,
+        91,
+        73
+      ],
+      "total": 877
+    },
+    {
+      "date": "2026-06-13",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        90,
+        86,
+        95,
+        91
+      ],
+      "total": 920
+    },
+    {
+      "date": "2026-06-13",
+      "player": "Henry Howe",
+      "rounds": [
+        99,
+        95,
+        87,
+        80,
+        88
+      ],
+      "total": 872
+    },
+    {
+      "date": "2026-06-13",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        92,
+        99,
+        92,
+        97,
+        90
+      ],
+      "total": 936
+    },
+    {
+      "date": "2026-06-14",
+      "player": "Chris Hampson",
+      "rounds": [
+        97,
+        100,
+        91,
+        95,
+        96
+      ],
+      "total": 952
+    },
+    {
+      "date": "2026-06-14",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        100,
+        99,
+        97,
+        92
+      ],
+      "total": 965
+    },
+    {
+      "date": "2026-06-14",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        95,
+        99,
+        99,
+        95,
+        88
+      ],
+      "total": 941
+    },
+    {
+      "date": "2026-06-15",
+      "player": "Chris Hampson",
+      "rounds": [
+        100,
+        96,
+        97,
+        92,
+        40
+      ],
+      "total": 786
+    },
+    {
       "date": "2026-06-15",
       "player": "Conor Murphy",
       "rounds": [
@@ -79,6 +643,30 @@
         89
       ],
       "total": 945
+    },
+    {
+      "date": "2026-06-15",
+      "player": "Henry Howe",
+      "rounds": [
+        100,
+        95,
+        93,
+        90,
+        97
+      ],
+      "total": 942
+    },
+    {
+      "date": "2026-06-15",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        100,
+        97,
+        96,
+        95,
+        94
+      ],
+      "total": 956
     },
     {
       "date": "2026-06-16",
@@ -283,6 +871,54 @@
         60
       ],
       "total": 837
+    },
+    {
+      "date": "2026-06-22",
+      "player": "Chris Hampson",
+      "rounds": [
+        100,
+        91,
+        98,
+        68,
+        84
+      ],
+      "total": 843
+    },
+    {
+      "date": "2026-06-22",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        96,
+        98,
+        86,
+        80
+      ],
+      "total": 890
+    },
+    {
+      "date": "2026-06-22",
+      "player": "Henry Howe",
+      "rounds": [
+        100,
+        91,
+        98,
+        59,
+        98
+      ],
+      "total": 858
+    },
+    {
+      "date": "2026-06-22",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        100,
+        96,
+        98,
+        79,
+        92
+      ],
+      "total": 905
     }
   ]
 }
