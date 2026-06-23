@@ -1,6 +1,6 @@
 {
   "chat": "Kev is fried",
-  "exported_at": "2026-06-22 14:50:16",
+  "exported_at": "2026-06-22 22:11:13",
   "players": [
     "Conor Murphy",
     "Giovanni Cancanon",
@@ -2744,6 +2744,30 @@
         89
       ],
       "total": 947
+    },
+    {
+      "date": "2026-06-22",
+      "player": "Justin Kaw",
+      "rounds": [
+        99,
+        93,
+        98,
+        94,
+        76
+      ],
+      "total": 898
+    },
+    {
+      "date": "2026-06-22",
+      "player": "Kevin Mun",
+      "rounds": [
+        96,
+        89,
+        95,
+        76,
+        97
+      ],
+      "total": 894
     }
   ]
 }
