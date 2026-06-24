@@ -1,6 +1,6 @@
 {
   "chat": "Tappers",
-  "exported_at": "2026-06-23 20:28:15",
+  "exported_at": "2026-06-23 20:52:50",
   "players": [
     "Chris Hampson",
     "Cole Pietsch",
@@ -956,6 +956,66 @@
         92
       ],
       "total": 905
+    },
+    {
+      "date": "2026-06-23",
+      "player": "Chris Hampson",
+      "rounds": [
+        100,
+        100,
+        96,
+        82,
+        91
+      ],
+      "total": 911
+    },
+    {
+      "date": "2026-06-23",
+      "player": "Cole Pietsch",
+      "rounds": [
+        100,
+        100,
+        96,
+        95,
+        94
+      ],
+      "total": 959
+    },
+    {
+      "date": "2026-06-23",
+      "player": "Conor Murphy",
+      "rounds": [
+        99,
+        100,
+        95,
+        82,
+        83
+      ],
+      "total": 884
+    },
+    {
+      "date": "2026-06-23",
+      "player": "Henry Howe",
+      "rounds": [
+        100,
+        100,
+        99,
+        82,
+        84
+      ],
+      "total": 896
+    },
+    {
+      "date": "2026-06-23",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        100,
+        100,
+        99,
+        86,
+        99
+      ],
+      "total": 953
     }
   ]
 }
