@@ -1,6 +1,6 @@
 {
   "chat": "Tappers",
-  "exported_at": "2026-06-23 21:02:17",
+  "exported_at": "2026-06-24 07:41:12",
   "players": [
     "Chris Hampson",
     "Cole Pietsch",
@@ -1016,6 +1016,18 @@
         99
       ],
       "total": 953
+    },
+    {
+      "date": "2026-06-24",
+      "player": "Cole Pietsch",
+      "rounds": [
+        100,
+        98,
+        96,
+        100,
+        83
+      ],
+      "total": 939
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "chat": "maptap",
-  "exported_at": "2026-06-23 21:02:17",
+  "exported_at": "2026-06-24 07:41:12",
   "players": [
     "Brennan Murphy",
     "Conor Murphy",
@@ -1834,6 +1834,54 @@
         93
       ],
       "total": 917
+    },
+    {
+      "date": "2026-06-24",
+      "player": "Brennan Murphy",
+      "rounds": [
+        97,
+        92,
+        84,
+        95,
+        77
+      ],
+      "total": 873
+    },
+    {
+      "date": "2026-06-24",
+      "player": "Danny Murphy",
+      "rounds": [
+        100,
+        91,
+        100,
+        97,
+        80
+      ],
+      "total": 922
+    },
+    {
+      "date": "2026-06-24",
+      "player": "Frank Murphy",
+      "rounds": [
+        96,
+        96,
+        98,
+        85,
+        83
+      ],
+      "total": 892
+    },
+    {
+      "date": "2026-06-24",
+      "player": "Mary Zach Murphy",
+      "rounds": [
+        100,
+        98,
+        98,
+        94,
+        95
+      ],
+      "total": 961
     }
   ]
 }

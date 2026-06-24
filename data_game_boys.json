@@ -1,6 +1,6 @@
 {
   "chat": "Game Boys",
-  "exported_at": "2026-06-23 21:02:18",
+  "exported_at": "2026-06-24 07:41:12",
   "players": [
     "Caleb Parnell",
     "Conor Murphy",
@@ -979,6 +979,18 @@
         83
       ],
       "total": 884
+    },
+    {
+      "date": "2026-06-24",
+      "player": "Justin Carroll",
+      "rounds": [
+        94,
+        95,
+        89,
+        66,
+        80
+      ],
+      "total": 805
     }
   ]
 }
