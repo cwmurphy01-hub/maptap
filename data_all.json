@@ -1,11 +1,11 @@
 {
   "chat": "All chats",
-  "exported_at": "2026-06-25 23:27:17",
+  "exported_at": "2026-06-25 23:31:16",
   "chats": [
     {
       "name": "Game Boys",
       "slug": "game_boys",
-      "score_count": 90
+      "score_count": 89
     },
     {
       "name": "Kev is fried",
@@ -6518,19 +6518,6 @@
       ],
       "total": 873,
       "chat": "maptap"
-    },
-    {
-      "date": "2026-06-24",
-      "player": "Caleb Parnell",
-      "rounds": [
-        100000,
-        100000,
-        100000,
-        100000,
-        100000
-      ],
-      "total": 1000000000,
-      "chat": "Game Boys"
     },
     {
       "date": "2026-06-24",

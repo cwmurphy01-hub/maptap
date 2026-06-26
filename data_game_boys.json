@@ -1,6 +1,6 @@
 {
   "chat": "Game Boys",
-  "exported_at": "2026-06-25 23:27:17",
+  "exported_at": "2026-06-25 23:31:16",
   "players": [
     "Caleb Parnell",
     "Conor Murphy",
@@ -1003,18 +1003,6 @@
         100
       ],
       "total": 1000
-    },
-    {
-      "date": "2026-06-24",
-      "player": "Caleb Parnell",
-      "rounds": [
-        100000,
-        100000,
-        100000,
-        100000,
-        100000
-      ],
-      "total": 1000000000
     },
     {
       "date": "2026-06-24",
