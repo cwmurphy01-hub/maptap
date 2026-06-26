@@ -1,6 +1,6 @@
 {
   "chat": "All chats",
-  "exported_at": "2026-06-25 23:23:08",
+  "exported_at": "2026-06-25 23:27:17",
   "chats": [
     {
       "name": "Game Boys",
@@ -1438,19 +1438,6 @@
     },
     {
       "date": "2026-05-06",
-      "player": "Conor Murphy",
-      "rounds": [
-        93,
-        97,
-        70,
-        99,
-        98
-      ],
-      "total": 921,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-05-06",
       "player": "Giovanni Cancanon",
       "rounds": [
         94,
@@ -1581,19 +1568,6 @@
     },
     {
       "date": "2026-05-11",
-      "player": "Conor Murphy",
-      "rounds": [
-        97,
-        95,
-        98,
-        23,
-        91
-      ],
-      "total": 730,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-05-11",
       "player": "Giovanni Cancanon",
       "rounds": [
         98,
@@ -1643,19 +1617,6 @@
       ],
       "total": 817,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-05-12",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        94,
-        87,
-        92,
-        58
-      ],
-      "total": 817,
-      "chat": "Game Boys"
     },
     {
       "date": "2026-05-12",
@@ -1867,32 +1828,6 @@
     },
     {
       "date": "2026-05-15",
-      "player": "Conor Murphy",
-      "rounds": [
-        91,
-        94,
-        97,
-        100,
-        93
-      ],
-      "total": 958,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-05-15",
-      "player": "Conor Murphy",
-      "rounds": [
-        91,
-        94,
-        97,
-        100,
-        93
-      ],
-      "total": 958,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-05-15",
       "player": "Giovanni Cancanon",
       "rounds": [
         97,
@@ -2007,19 +1942,6 @@
       ],
       "total": 873,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-05-16",
-      "player": "Conor Murphy",
-      "rounds": [
-        95,
-        99,
-        95,
-        78,
-        85
-      ],
-      "total": 873,
-      "chat": "Game Boys"
     },
     {
       "date": "2026-05-16",
@@ -2254,19 +2176,6 @@
       ],
       "total": 874,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-05-19",
-      "player": "Conor Murphy",
-      "rounds": [
-        93,
-        93,
-        83,
-        90,
-        84
-      ],
-      "total": 874,
-      "chat": "Game Boys"
     },
     {
       "date": "2026-05-19",
@@ -2540,19 +2449,6 @@
       ],
       "total": 806,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-05-21",
-      "player": "Conor Murphy",
-      "rounds": [
-        96,
-        95,
-        90,
-        69,
-        76
-      ],
-      "total": 806,
-      "chat": "Tappers"
     },
     {
       "date": "2026-05-21",
@@ -2946,19 +2842,6 @@
     },
     {
       "date": "2026-05-24",
-      "player": "Conor Murphy",
-      "rounds": [
-        96,
-        95,
-        97,
-        95,
-        95
-      ],
-      "total": 955,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-05-24",
       "player": "Danny Murphy",
       "rounds": [
         95,
@@ -3086,19 +2969,6 @@
       ],
       "total": 894,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-05-26",
-      "player": "Conor Murphy",
-      "rounds": [
-        97,
-        92,
-        90,
-        89,
-        86
-      ],
-      "total": 894,
-      "chat": "maptap"
     },
     {
       "date": "2026-05-26",
@@ -3557,32 +3427,6 @@
     },
     {
       "date": "2026-06-01",
-      "player": "Conor Murphy",
-      "rounds": [
-        95,
-        100,
-        98,
-        77,
-        90
-      ],
-      "total": 892,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-01",
-      "player": "Conor Murphy",
-      "rounds": [
-        95,
-        100,
-        98,
-        77,
-        90
-      ],
-      "total": 892,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-06-01",
       "player": "Danny Murphy",
       "rounds": [
         98,
@@ -3723,45 +3567,6 @@
       ],
       "total": 953,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-06-02",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        95,
-        97,
-        92,
-        96
-      ],
-      "total": 953,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-02",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        95,
-        97,
-        92,
-        96
-      ],
-      "total": 953,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-02",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        95,
-        97,
-        92,
-        96
-      ],
-      "total": 953,
-      "chat": "Game Boys"
     },
     {
       "date": "2026-06-02",
@@ -3999,19 +3804,6 @@
     },
     {
       "date": "2026-06-04",
-      "player": "Conor Murphy",
-      "rounds": [
-        94,
-        93,
-        61,
-        88,
-        85
-      ],
-      "total": 828,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-04",
       "player": "Danny Murphy",
       "rounds": [
         95,
@@ -4165,32 +3957,6 @@
       ],
       "total": 917,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-06-05",
-      "player": "Conor Murphy",
-      "rounds": [
-        95,
-        95,
-        98,
-        91,
-        86
-      ],
-      "total": 917,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-05",
-      "player": "Conor Murphy",
-      "rounds": [
-        95,
-        95,
-        98,
-        91,
-        86
-      ],
-      "total": 917,
-      "chat": "maptap"
     },
     {
       "date": "2026-06-05",
@@ -4441,32 +4207,6 @@
     },
     {
       "date": "2026-06-08",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        99,
-        100,
-        93,
-        97
-      ],
-      "total": 969,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-08",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        99,
-        100,
-        93,
-        97
-      ],
-      "total": 969,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-08",
       "player": "Danny Murphy",
       "rounds": [
         98,
@@ -4594,32 +4334,6 @@
       ],
       "total": 593,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-06-09",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        91,
-        63,
-        0,
-        92
-      ],
-      "total": 593,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-09",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        91,
-        63,
-        0,
-        92
-      ],
-      "total": 593,
-      "chat": "maptap"
     },
     {
       "date": "2026-06-09",
@@ -4909,45 +4623,6 @@
     },
     {
       "date": "2026-06-11",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        95,
-        95,
-        100,
-        100
-      ],
-      "total": 984,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-11",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        95,
-        95,
-        100,
-        100
-      ],
-      "total": 984,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-11",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        95,
-        95,
-        100,
-        100
-      ],
-      "total": 984,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-06-11",
       "player": "Danny Murphy",
       "rounds": [
         95,
@@ -5130,32 +4805,6 @@
     },
     {
       "date": "2026-06-12",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        97,
-        95,
-        99,
-        83
-      ],
-      "total": 933,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-12",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        97,
-        95,
-        99,
-        83
-      ],
-      "total": 933,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-06-12",
       "player": "Danny Murphy",
       "rounds": [
         100,
@@ -5270,32 +4919,6 @@
       ],
       "total": 920,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-06-13",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        90,
-        86,
-        95,
-        91
-      ],
-      "total": 920,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-13",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        90,
-        86,
-        95,
-        91
-      ],
-      "total": 920,
-      "chat": "maptap"
     },
     {
       "date": "2026-06-13",
@@ -5416,45 +5039,6 @@
     },
     {
       "date": "2026-06-14",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        100,
-        99,
-        97,
-        92
-      ],
-      "total": 965,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-14",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        100,
-        99,
-        97,
-        92
-      ],
-      "total": 965,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-14",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        100,
-        99,
-        97,
-        92
-      ],
-      "total": 965,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-06-14",
       "player": "Danny Murphy",
       "rounds": [
         96,
@@ -5556,45 +5140,6 @@
       ],
       "total": 945,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-06-15",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        95,
-        96,
-        97,
-        89
-      ],
-      "total": 945,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-15",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        95,
-        96,
-        97,
-        89
-      ],
-      "total": 945,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-15",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        95,
-        96,
-        97,
-        89
-      ],
-      "total": 945,
-      "chat": "Game Boys"
     },
     {
       "date": "2026-06-15",
@@ -5754,45 +5299,6 @@
     },
     {
       "date": "2026-06-16",
-      "player": "Conor Murphy",
-      "rounds": [
-        97,
-        99,
-        99,
-        97,
-        67
-      ],
-      "total": 886,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-16",
-      "player": "Conor Murphy",
-      "rounds": [
-        97,
-        99,
-        99,
-        97,
-        67
-      ],
-      "total": 886,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-16",
-      "player": "Conor Murphy",
-      "rounds": [
-        97,
-        99,
-        99,
-        97,
-        67
-      ],
-      "total": 886,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-06-16",
       "player": "Frank Murphy",
       "rounds": [
         97,
@@ -5933,45 +5439,6 @@
       ],
       "total": 919,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-06-17",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        95,
-        85,
-        97,
-        88
-      ],
-      "total": 919,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-17",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        95,
-        85,
-        97,
-        88
-      ],
-      "total": 919,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-17",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        95,
-        85,
-        97,
-        88
-      ],
-      "total": 919,
-      "chat": "Game Boys"
     },
     {
       "date": "2026-06-17",
@@ -6144,19 +5611,6 @@
     },
     {
       "date": "2026-06-18",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        100,
-        96,
-        87,
-        74
-      ],
-      "total": 875,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-06-18",
       "player": "Danny Murphy",
       "rounds": [
         97,
@@ -6310,45 +5764,6 @@
       ],
       "total": 926,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-06-19",
-      "player": "Conor Murphy",
-      "rounds": [
-        95,
-        95,
-        95,
-        87,
-        95
-      ],
-      "total": 926,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-19",
-      "player": "Conor Murphy",
-      "rounds": [
-        95,
-        95,
-        95,
-        87,
-        95
-      ],
-      "total": 926,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-19",
-      "player": "Conor Murphy",
-      "rounds": [
-        95,
-        95,
-        95,
-        87,
-        95
-      ],
-      "total": 926,
-      "chat": "Game Boys"
     },
     {
       "date": "2026-06-19",
@@ -6508,45 +5923,6 @@
     },
     {
       "date": "2026-06-20",
-      "player": "Conor Murphy",
-      "rounds": [
-        97,
-        72,
-        61,
-        79,
-        78
-      ],
-      "total": 762,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-20",
-      "player": "Conor Murphy",
-      "rounds": [
-        97,
-        72,
-        61,
-        79,
-        78
-      ],
-      "total": 762,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-20",
-      "player": "Conor Murphy",
-      "rounds": [
-        97,
-        72,
-        61,
-        79,
-        78
-      ],
-      "total": 762,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-06-20",
       "player": "Danny Murphy",
       "rounds": [
         98,
@@ -6690,45 +6066,6 @@
     },
     {
       "date": "2026-06-21",
-      "player": "Conor Murphy",
-      "rounds": [
-        94,
-        88,
-        23,
-        84,
-        34
-      ],
-      "total": 582,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-21",
-      "player": "Conor Murphy",
-      "rounds": [
-        94,
-        88,
-        23,
-        84,
-        34
-      ],
-      "total": 582,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-21",
-      "player": "Conor Murphy",
-      "rounds": [
-        94,
-        88,
-        23,
-        84,
-        34
-      ],
-      "total": 582,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-06-21",
       "player": "Danny Murphy",
       "rounds": [
         94,
@@ -6856,45 +6193,6 @@
       ],
       "total": 890,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-06-22",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        96,
-        98,
-        86,
-        80
-      ],
-      "total": 890,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-22",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        96,
-        98,
-        86,
-        80
-      ],
-      "total": 890,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-22",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        96,
-        98,
-        86,
-        80
-      ],
-      "total": 890,
-      "chat": "Game Boys"
     },
     {
       "date": "2026-06-22",
@@ -7093,45 +6391,6 @@
     },
     {
       "date": "2026-06-23",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        100,
-        95,
-        82,
-        83
-      ],
-      "total": 884,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-23",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        100,
-        95,
-        82,
-        83
-      ],
-      "total": 884,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-23",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        100,
-        95,
-        82,
-        83
-      ],
-      "total": 884,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-06-23",
       "player": "Danny Murphy",
       "rounds": [
         99,
@@ -7311,45 +6570,6 @@
       ],
       "total": 890,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-06-24",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        99,
-        91,
-        97,
-        73
-      ],
-      "total": 890,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-24",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        99,
-        91,
-        97,
-        73
-      ],
-      "total": 890,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-24",
-      "player": "Conor Murphy",
-      "rounds": [
-        99,
-        99,
-        91,
-        97,
-        73
-      ],
-      "total": 890,
-      "chat": "Game Boys"
     },
     {
       "date": "2026-06-24",
@@ -7571,45 +6791,6 @@
       ],
       "total": 645,
       "chat": "Kev is fried"
-    },
-    {
-      "date": "2026-06-25",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        100,
-        80,
-        91,
-        4
-      ],
-      "total": 645,
-      "chat": "Tappers"
-    },
-    {
-      "date": "2026-06-25",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        100,
-        80,
-        91,
-        4
-      ],
-      "total": 645,
-      "chat": "maptap"
-    },
-    {
-      "date": "2026-06-25",
-      "player": "Conor Murphy",
-      "rounds": [
-        100,
-        100,
-        80,
-        91,
-        4
-      ],
-      "total": 645,
-      "chat": "Game Boys"
     },
     {
       "date": "2026-06-25",
