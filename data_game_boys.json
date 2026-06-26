@@ -1,6 +1,6 @@
 {
   "chat": "Game Boys",
-  "exported_at": "2026-06-24 07:41:12",
+  "exported_at": "2026-06-25 23:00:03",
   "players": [
     "Caleb Parnell",
     "Conor Murphy",
@@ -888,13 +888,13 @@
       "date": "2026-06-20",
       "player": "Michael Ackley",
       "rounds": [
-        94,
-        98,
-        87,
-        96,
-        61
+        100,
+        100,
+        100,
+        100,
+        100
       ],
-      "total": 837
+      "total": 1000
     },
     {
       "date": "2026-06-21",
@@ -924,13 +924,13 @@
       "date": "2026-06-21",
       "player": "Michael Ackley",
       "rounds": [
-        94,
-        65,
-        81,
-        80,
-        4
+        100,
+        100,
+        100,
+        100,
+        100
       ],
-      "total": 573
+      "total": 1000
     },
     {
       "date": "2026-06-22",
@@ -969,6 +969,18 @@
       "total": 933
     },
     {
+      "date": "2026-06-22",
+      "player": "Michael Ackley",
+      "rounds": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "total": 1000
+    },
+    {
       "date": "2026-06-23",
       "player": "Conor Murphy",
       "rounds": [
@@ -981,6 +993,42 @@
       "total": 884
     },
     {
+      "date": "2026-06-23",
+      "player": "Michael Ackley",
+      "rounds": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "total": 1000
+    },
+    {
+      "date": "2026-06-24",
+      "player": "Caleb Parnell",
+      "rounds": [
+        100000,
+        100000,
+        100000,
+        100000,
+        100000
+      ],
+      "total": 1000000000
+    },
+    {
+      "date": "2026-06-24",
+      "player": "Conor Murphy",
+      "rounds": [
+        99,
+        99,
+        91,
+        97,
+        73
+      ],
+      "total": 890
+    },
+    {
       "date": "2026-06-24",
       "player": "Justin Carroll",
       "rounds": [
@@ -991,6 +1039,30 @@
         80
       ],
       "total": 805
+    },
+    {
+      "date": "2026-06-24",
+      "player": "Michael Ackley",
+      "rounds": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "total": 1000
+    },
+    {
+      "date": "2026-06-25",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        100,
+        80,
+        91,
+        4
+      ],
+      "total": 645
     }
   ]
 }
