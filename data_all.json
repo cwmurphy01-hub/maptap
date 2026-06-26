@@ -1,11 +1,11 @@
 {
   "chat": "All chats",
-  "exported_at": "2026-06-25 23:31:16",
+  "exported_at": "2026-06-25 23:45:12",
   "chats": [
     {
       "name": "Game Boys",
       "slug": "game_boys",
-      "score_count": 89
+      "score_count": 88
     },
     {
       "name": "Kev is fried",
@@ -5990,13 +5990,13 @@
       "date": "2026-06-20",
       "player": "Michael Ackley",
       "rounds": [
-        100,
-        100,
-        100,
-        100,
-        100
+        94,
+        98,
+        87,
+        96,
+        61
       ],
-      "total": 1000,
+      "total": 837,
       "chat": "Game Boys"
     },
     {
@@ -6120,13 +6120,13 @@
       "date": "2026-06-21",
       "player": "Michael Ackley",
       "rounds": [
-        100,
-        100,
-        100,
-        100,
-        100
+        94,
+        65,
+        81,
+        80,
+        4
       ],
-      "total": 1000,
+      "total": 573,
       "chat": "Game Boys"
     },
     {
@@ -6313,19 +6313,6 @@
     },
     {
       "date": "2026-06-22",
-      "player": "Michael Ackley",
-      "rounds": [
-        100,
-        100,
-        100,
-        100,
-        100
-      ],
-      "total": 1000,
-      "chat": "Game Boys"
-    },
-    {
-      "date": "2026-06-22",
       "player": "Nonni Murphy",
       "rounds": [
         100,
@@ -6494,19 +6481,6 @@
       "chat": "Tappers"
     },
     {
-      "date": "2026-06-23",
-      "player": "Michael Ackley",
-      "rounds": [
-        100,
-        100,
-        100,
-        100,
-        100
-      ],
-      "total": 1000,
-      "chat": "Game Boys"
-    },
-    {
       "date": "2026-06-24",
       "player": "Brennan Murphy",
       "rounds": [
@@ -6518,6 +6492,19 @@
       ],
       "total": 873,
       "chat": "maptap"
+    },
+    {
+      "date": "2026-06-24",
+      "player": "Caleb Parnell",
+      "rounds": [
+        96,
+        91,
+        93,
+        80,
+        97
+      ],
+      "total": 904,
+      "chat": "Game Boys"
     },
     {
       "date": "2026-06-24",
@@ -6692,13 +6679,13 @@
       "date": "2026-06-24",
       "player": "Michael Ackley",
       "rounds": [
-        100,
-        100,
-        100,
-        100,
-        100
+        98,
+        89,
+        87,
+        59,
+        80
       ],
-      "total": 1000,
+      "total": 778,
       "chat": "Game Boys"
     },
     {
