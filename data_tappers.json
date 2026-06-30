@@ -1,6 +1,6 @@
 {
   "chat": "Tappers",
-  "exported_at": "2026-06-25 23:55:47",
+  "exported_at": "2026-06-30 08:31:38",
   "players": [
     "Arlo Metzger",
     "Chris Hampson",
@@ -1149,6 +1149,234 @@
         83
       ],
       "total": 860
+    },
+    {
+      "date": "2026-06-26",
+      "player": "Arlo Metzger",
+      "rounds": [
+        93,
+        94,
+        93,
+        39,
+        59
+      ],
+      "total": 667
+    },
+    {
+      "date": "2026-06-26",
+      "player": "Chris Hampson",
+      "rounds": [
+        97,
+        91,
+        62,
+        85,
+        27
+      ],
+      "total": 648
+    },
+    {
+      "date": "2026-06-26",
+      "player": "Cole Pietsch",
+      "rounds": [
+        100,
+        99,
+        100,
+        91,
+        70
+      ],
+      "total": 882
+    },
+    {
+      "date": "2026-06-26",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        97,
+        100,
+        47,
+        3
+      ],
+      "total": 547
+    },
+    {
+      "date": "2026-06-26",
+      "player": "Henry Howe",
+      "rounds": [
+        96,
+        91,
+        90,
+        80,
+        6
+      ],
+      "total": 625
+    },
+    {
+      "date": "2026-06-26",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        100,
+        93,
+        90,
+        92,
+        63
+      ],
+      "total": 838
+    },
+    {
+      "date": "2026-06-27",
+      "player": "Chris Hampson",
+      "rounds": [
+        93,
+        88,
+        80,
+        80,
+        89
+      ],
+      "total": 848
+    },
+    {
+      "date": "2026-06-27",
+      "player": "Cole Pietsch",
+      "rounds": [
+        96,
+        100,
+        100,
+        96,
+        98
+      ],
+      "total": 978
+    },
+    {
+      "date": "2026-06-27",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        94,
+        99,
+        98,
+        98,
+        100
+      ],
+      "total": 983
+    },
+    {
+      "date": "2026-06-28",
+      "player": "Arlo Metzger",
+      "rounds": [
+        94,
+        100,
+        90,
+        87,
+        61
+      ],
+      "total": 818
+    },
+    {
+      "date": "2026-06-28",
+      "player": "Chris Hampson",
+      "rounds": [
+        93,
+        100,
+        90,
+        89,
+        84
+      ],
+      "total": 892
+    },
+    {
+      "date": "2026-06-28",
+      "player": "Cole Pietsch",
+      "rounds": [
+        100,
+        100,
+        100,
+        96,
+        95
+      ],
+      "total": 973
+    },
+    {
+      "date": "2026-06-28",
+      "player": "Henry Howe",
+      "rounds": [
+        100,
+        90,
+        93,
+        86,
+        40
+      ],
+      "total": 754
+    },
+    {
+      "date": "2026-06-28",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        95,
+        100,
+        95,
+        88,
+        82
+      ],
+      "total": 895
+    },
+    {
+      "date": "2026-06-29",
+      "player": "Arlo Metzger",
+      "rounds": [
+        100,
+        93,
+        62,
+        91,
+        80
+      ],
+      "total": 830
+    },
+    {
+      "date": "2026-06-29",
+      "player": "Chris Hampson",
+      "rounds": [
+        100,
+        100,
+        62,
+        88,
+        90
+      ],
+      "total": 858
+    },
+    {
+      "date": "2026-06-29",
+      "player": "Cole Pietsch",
+      "rounds": [
+        100,
+        100,
+        100,
+        81,
+        93
+      ],
+      "total": 922
+    },
+    {
+      "date": "2026-06-29",
+      "player": "Henry Howe",
+      "rounds": [
+        100,
+        97,
+        62,
+        88,
+        89
+      ],
+      "total": 852
+    },
+    {
+      "date": "2026-06-29",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        100,
+        98,
+        100,
+        82,
+        85
+      ],
+      "total": 899
     }
   ]
 }

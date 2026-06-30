@@ -1,12 +1,14 @@
 {
   "chat": "Kev is fried",
-  "exported_at": "2026-06-25 23:55:47",
+  "exported_at": "2026-06-30 08:31:38",
   "players": [
+    "Brennen Semmens",
     "Conor Murphy",
     "Giovanni Cancanon",
     "Hunter Sitki",
     "Justin Kaw",
-    "Kevin Mun"
+    "Kevin Mun",
+    "Weston Barnett"
   ],
   "scores": [
     {
@@ -2948,6 +2950,186 @@
         3
       ],
       "total": 623
+    },
+    {
+      "date": "2026-06-26",
+      "player": "Brennen Semmens",
+      "rounds": [
+        100,
+        97,
+        100,
+        92,
+        67
+      ],
+      "total": 874
+    },
+    {
+      "date": "2026-06-26",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        97,
+        100,
+        47,
+        3
+      ],
+      "total": 547
+    },
+    {
+      "date": "2026-06-26",
+      "player": "Giovanni Cancanon",
+      "rounds": [
+        80,
+        94,
+        76,
+        22,
+        4
+      ],
+      "total": 404
+    },
+    {
+      "date": "2026-06-26",
+      "player": "Hunter Sitki",
+      "rounds": [
+        99,
+        97,
+        100,
+        100,
+        90
+      ],
+      "total": 966
+    },
+    {
+      "date": "2026-06-26",
+      "player": "Weston Barnett",
+      "rounds": [
+        99,
+        91,
+        85,
+        50,
+        5
+      ],
+      "total": 525
+    },
+    {
+      "date": "2026-06-27",
+      "player": "Giovanni Cancanon",
+      "rounds": [
+        94,
+        61,
+        75,
+        44,
+        24
+      ],
+      "total": 509
+    },
+    {
+      "date": "2026-06-27",
+      "player": "Hunter Sitki",
+      "rounds": [
+        100,
+        100,
+        98,
+        78,
+        98
+      ],
+      "total": 924
+    },
+    {
+      "date": "2026-06-27",
+      "player": "Justin Kaw",
+      "rounds": [
+        99,
+        90,
+        80,
+        84,
+        50
+      ],
+      "total": 751
+    },
+    {
+      "date": "2026-06-28",
+      "player": "Hunter Sitki",
+      "rounds": [
+        97,
+        100,
+        100,
+        95,
+        95
+      ],
+      "total": 967
+    },
+    {
+      "date": "2026-06-28",
+      "player": "Justin Kaw",
+      "rounds": [
+        92,
+        97,
+        93,
+        84,
+        69
+      ],
+      "total": 834
+    },
+    {
+      "date": "2026-06-29",
+      "player": "Brennen Semmens",
+      "rounds": [
+        100,
+        91,
+        1,
+        87,
+        97
+      ],
+      "total": 745
+    },
+    {
+      "date": "2026-06-29",
+      "player": "Giovanni Cancanon",
+      "rounds": [
+        93,
+        96,
+        75,
+        53,
+        65
+      ],
+      "total": 693
+    },
+    {
+      "date": "2026-06-29",
+      "player": "Hunter Sitki",
+      "rounds": [
+        100,
+        100,
+        100,
+        85,
+        97
+      ],
+      "total": 946
+    },
+    {
+      "date": "2026-06-29",
+      "player": "Justin Kaw",
+      "rounds": [
+        100,
+        98,
+        80,
+        83,
+        93
+      ],
+      "total": 886
+    },
+    {
+      "date": "2026-06-29",
+      "player": "Kevin Mun",
+      "rounds": [
+        95,
+        94,
+        64,
+        83,
+        84
+      ],
+      "total": 818
     }
   ]
 }
