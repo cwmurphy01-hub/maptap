@@ -1,6 +1,6 @@
 {
   "chat": "Kev is fried",
-  "exported_at": "2026-06-30 08:31:38",
+  "exported_at": "2026-06-30 13:47:08",
   "players": [
     "Brennen Semmens",
     "Conor Murphy",
@@ -3130,6 +3130,90 @@
         84
       ],
       "total": 818
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Brennen Semmens",
+      "rounds": [
+        96,
+        93,
+        94,
+        80,
+        99
+      ],
+      "total": 914
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Conor Murphy",
+      "rounds": [
+        97,
+        98,
+        100,
+        67,
+        65
+      ],
+      "total": 791
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Giovanni Cancanon",
+      "rounds": [
+        97,
+        87,
+        80,
+        78,
+        63
+      ],
+      "total": 767
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Hunter Sitki",
+      "rounds": [
+        96,
+        99,
+        100,
+        81,
+        98
+      ],
+      "total": 932
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Justin Kaw",
+      "rounds": [
+        99,
+        95,
+        80,
+        81,
+        80
+      ],
+      "total": 837
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Kevin Mun",
+      "rounds": [
+        96,
+        13,
+        82,
+        74,
+        63
+      ],
+      "total": 684
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Weston Barnett",
+      "rounds": [
+        94,
+        80,
+        81,
+        80,
+        44
+      ],
+      "total": 708
     }
   ]
 }

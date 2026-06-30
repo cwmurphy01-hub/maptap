@@ -1,6 +1,6 @@
 {
   "chat": "All chats",
-  "exported_at": "2026-06-30 08:31:38",
+  "exported_at": "2026-06-30 13:47:08",
   "chats": [
     {
       "name": "Game Boys",
@@ -10,17 +10,17 @@
     {
       "name": "Kev is fried",
       "slug": "kev_is_fried",
-      "score_count": 260
+      "score_count": 267
     },
     {
       "name": "Tappers",
       "slug": "tappers",
-      "score_count": 114
+      "score_count": 120
     },
     {
       "name": "maptap",
       "slug": "maptap",
-      "score_count": 177
+      "score_count": 178
     }
   ],
   "players": [
@@ -7524,6 +7524,19 @@
     },
     {
       "date": "2026-06-30",
+      "player": "Arlo Metzger",
+      "rounds": [
+        95,
+        90,
+        100,
+        78,
+        63
+      ],
+      "total": 808,
+      "chat": "Tappers"
+    },
+    {
+      "date": "2026-06-30",
       "player": "Brennan Murphy",
       "rounds": [
         91,
@@ -7534,6 +7547,58 @@
       ],
       "total": 812,
       "chat": "maptap"
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Brennen Semmens",
+      "rounds": [
+        96,
+        93,
+        94,
+        80,
+        99
+      ],
+      "total": 914,
+      "chat": "Kev is fried"
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Chris Hampson",
+      "rounds": [
+        81,
+        93,
+        80,
+        63,
+        73
+      ],
+      "total": 742,
+      "chat": "Tappers"
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Cole Pietsch",
+      "rounds": [
+        98,
+        96,
+        100,
+        80,
+        98
+      ],
+      "total": 928,
+      "chat": "Tappers"
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Conor Murphy",
+      "rounds": [
+        97,
+        98,
+        100,
+        67,
+        65
+      ],
+      "total": 791,
+      "chat": "Kev is fried"
     },
     {
       "date": "2026-06-30",
@@ -7550,6 +7615,84 @@
     },
     {
       "date": "2026-06-30",
+      "player": "Frank Murphy",
+      "rounds": [
+        99,
+        93,
+        100,
+        72,
+        90
+      ],
+      "total": 878,
+      "chat": "maptap"
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Giovanni Cancanon",
+      "rounds": [
+        97,
+        87,
+        80,
+        78,
+        63
+      ],
+      "total": 767,
+      "chat": "Kev is fried"
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Henry Howe",
+      "rounds": [
+        93,
+        88,
+        69,
+        80,
+        65
+      ],
+      "total": 754,
+      "chat": "Tappers"
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Hunter Sitki",
+      "rounds": [
+        96,
+        99,
+        100,
+        81,
+        98
+      ],
+      "total": 932,
+      "chat": "Kev is fried"
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Justin Kaw",
+      "rounds": [
+        99,
+        95,
+        80,
+        81,
+        80
+      ],
+      "total": 837,
+      "chat": "Kev is fried"
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Kevin Mun",
+      "rounds": [
+        96,
+        13,
+        82,
+        74,
+        63
+      ],
+      "total": 684,
+      "chat": "Kev is fried"
+    },
+    {
+      "date": "2026-06-30",
       "player": "Mary Zach Murphy",
       "rounds": [
         98,
@@ -7560,6 +7703,32 @@
       ],
       "total": 929,
       "chat": "maptap"
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Matthew Viozzi",
+      "rounds": [
+        96,
+        91,
+        93,
+        67,
+        98
+      ],
+      "total": 868,
+      "chat": "Tappers"
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Weston Barnett",
+      "rounds": [
+        94,
+        80,
+        81,
+        80,
+        44
+      ],
+      "total": 708,
+      "chat": "Kev is fried"
     }
   ]
 }

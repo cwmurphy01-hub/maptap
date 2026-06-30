@@ -1,6 +1,6 @@
 {
   "chat": "maptap",
-  "exported_at": "2026-06-30 08:31:38",
+  "exported_at": "2026-06-30 13:47:08",
   "players": [
     "Brennan Murphy",
     "Conor Murphy",
@@ -2122,6 +2122,18 @@
         99
       ],
       "total": 887
+    },
+    {
+      "date": "2026-06-30",
+      "player": "Frank Murphy",
+      "rounds": [
+        99,
+        93,
+        100,
+        72,
+        90
+      ],
+      "total": 878
     },
     {
       "date": "2026-06-30",
