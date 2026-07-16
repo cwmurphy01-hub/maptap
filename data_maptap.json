@@ -1,6 +1,6 @@
 {
   "chat": "maptap",
-  "exported_at": "2026-06-30 13:47:08",
+  "exported_at": "2026-07-15 18:15:31",
   "players": [
     "Brennan Murphy",
     "Conor Murphy",
@@ -2146,6 +2146,534 @@
         99
       ],
       "total": 929
+    },
+    {
+      "date": "2026-07-01",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        100,
+        100,
+        57,
+        63
+      ],
+      "total": 760
+    },
+    {
+      "date": "2026-07-01",
+      "player": "Frank Murphy",
+      "rounds": [
+        100,
+        100,
+        96,
+        56,
+        72
+      ],
+      "total": 776
+    },
+    {
+      "date": "2026-07-02",
+      "player": "Conor Murphy",
+      "rounds": [
+        86,
+        97,
+        80,
+        87,
+        89
+      ],
+      "total": 871
+    },
+    {
+      "date": "2026-07-02",
+      "player": "Danny Murphy",
+      "rounds": [
+        89,
+        95,
+        80,
+        98,
+        54
+      ],
+      "total": 800
+    },
+    {
+      "date": "2026-07-02",
+      "player": "Frank Murphy",
+      "rounds": [
+        96,
+        95,
+        99,
+        93,
+        80
+      ],
+      "total": 908
+    },
+    {
+      "date": "2026-07-02",
+      "player": "Mary Zach Murphy",
+      "rounds": [
+        95,
+        97,
+        63,
+        97,
+        90
+      ],
+      "total": 879
+    },
+    {
+      "date": "2026-07-03",
+      "player": "Brennan Murphy",
+      "rounds": [
+        99,
+        84,
+        79,
+        35,
+        92
+      ],
+      "total": 722
+    },
+    {
+      "date": "2026-07-03",
+      "player": "Conor Murphy",
+      "rounds": [
+        99,
+        89,
+        77,
+        10,
+        89
+      ],
+      "total": 639
+    },
+    {
+      "date": "2026-07-03",
+      "player": "Danny Murphy",
+      "rounds": [
+        99,
+        94,
+        92,
+        47,
+        92
+      ],
+      "total": 794
+    },
+    {
+      "date": "2026-07-03",
+      "player": "Frank Murphy",
+      "rounds": [
+        100,
+        86,
+        97,
+        78,
+        95
+      ],
+      "total": 899
+    },
+    {
+      "date": "2026-07-03",
+      "player": "Nonni Murphy",
+      "rounds": [
+        99,
+        88,
+        78,
+        60,
+        80
+      ],
+      "total": 763
+    },
+    {
+      "date": "2026-07-04",
+      "player": "Brennan Murphy",
+      "rounds": [
+        99,
+        100,
+        98,
+        55,
+        87
+      ],
+      "total": 821
+    },
+    {
+      "date": "2026-07-04",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        93,
+        100,
+        85,
+        88
+      ],
+      "total": 912
+    },
+    {
+      "date": "2026-07-04",
+      "player": "Danny Murphy",
+      "rounds": [
+        100,
+        100,
+        100,
+        78,
+        84
+      ],
+      "total": 886
+    },
+    {
+      "date": "2026-07-04",
+      "player": "Frank Murphy",
+      "rounds": [
+        100,
+        100,
+        99,
+        85,
+        89
+      ],
+      "total": 920
+    },
+    {
+      "date": "2026-07-05",
+      "player": "Danny Murphy",
+      "rounds": [
+        98,
+        93,
+        93,
+        98,
+        97
+      ],
+      "total": 962
+    },
+    {
+      "date": "2026-07-05",
+      "player": "Frank Murphy",
+      "rounds": [
+        99,
+        94,
+        86,
+        83,
+        98
+      ],
+      "total": 908
+    },
+    {
+      "date": "2026-07-05",
+      "player": "Nonni Murphy",
+      "rounds": [
+        99,
+        82,
+        89,
+        89,
+        91
+      ],
+      "total": 899
+    },
+    {
+      "date": "2026-07-06",
+      "player": "Frank Murphy",
+      "rounds": [
+        100,
+        92,
+        94,
+        100,
+        60
+      ],
+      "total": 860
+    },
+    {
+      "date": "2026-07-06",
+      "player": "Nonni Murphy",
+      "rounds": [
+        98,
+        90,
+        93,
+        91,
+        72
+      ],
+      "total": 863
+    },
+    {
+      "date": "2026-07-07",
+      "player": "Brennan Murphy",
+      "rounds": [
+        96,
+        95,
+        99,
+        85,
+        8
+      ],
+      "total": 668
+    },
+    {
+      "date": "2026-07-07",
+      "player": "Frank Murphy",
+      "rounds": [
+        99,
+        100,
+        94,
+        89,
+        94
+      ],
+      "total": 936
+    },
+    {
+      "date": "2026-07-08",
+      "player": "Conor Murphy",
+      "rounds": [
+        98,
+        90,
+        97,
+        90,
+        95
+      ],
+      "total": 937
+    },
+    {
+      "date": "2026-07-08",
+      "player": "Danny Murphy",
+      "rounds": [
+        98,
+        88,
+        92,
+        80,
+        97
+      ],
+      "total": 901
+    },
+    {
+      "date": "2026-07-08",
+      "player": "Frank Murphy",
+      "rounds": [
+        98,
+        92,
+        89,
+        73,
+        85
+      ],
+      "total": 842
+    },
+    {
+      "date": "2026-07-08",
+      "player": "Nonni Murphy",
+      "rounds": [
+        100,
+        98,
+        98,
+        76,
+        94
+      ],
+      "total": 904
+    },
+    {
+      "date": "2026-07-09",
+      "player": "Frank Murphy",
+      "rounds": [
+        97,
+        90,
+        61,
+        51,
+        76
+      ],
+      "total": 690
+    },
+    {
+      "date": "2026-07-09",
+      "player": "Nonni Murphy",
+      "rounds": [
+        96,
+        95,
+        62,
+        86,
+        88
+      ],
+      "total": 837
+    },
+    {
+      "date": "2026-07-10",
+      "player": "Frank Murphy",
+      "rounds": [
+        93,
+        80,
+        92,
+        96,
+        62
+      ],
+      "total": 831
+    },
+    {
+      "date": "2026-07-10",
+      "player": "Nonni Murphy",
+      "rounds": [
+        92,
+        83,
+        95,
+        88,
+        69
+      ],
+      "total": 836
+    },
+    {
+      "date": "2026-07-11",
+      "player": "Frank Murphy",
+      "rounds": [
+        92,
+        99,
+        96,
+        83,
+        86
+      ],
+      "total": 890
+    },
+    {
+      "date": "2026-07-12",
+      "player": "Danny Murphy",
+      "rounds": [
+        96,
+        93,
+        90,
+        86,
+        30
+      ],
+      "total": 717
+    },
+    {
+      "date": "2026-07-12",
+      "player": "Frank Murphy",
+      "rounds": [
+        98,
+        96,
+        97,
+        96,
+        33
+      ],
+      "total": 775
+    },
+    {
+      "date": "2026-07-12",
+      "player": "Nonni Murphy",
+      "rounds": [
+        96,
+        92,
+        78,
+        81,
+        10
+      ],
+      "total": 617
+    },
+    {
+      "date": "2026-07-13",
+      "player": "Frank Murphy",
+      "rounds": [
+        97,
+        96,
+        94,
+        76,
+        49
+      ],
+      "total": 756
+    },
+    {
+      "date": "2026-07-14",
+      "player": "Conor Murphy",
+      "rounds": [
+        99,
+        99,
+        95,
+        80,
+        80
+      ],
+      "total": 868
+    },
+    {
+      "date": "2026-07-14",
+      "player": "Danny Murphy",
+      "rounds": [
+        97,
+        100,
+        80,
+        80,
+        85
+      ],
+      "total": 852
+    },
+    {
+      "date": "2026-07-14",
+      "player": "Frank Murphy",
+      "rounds": [
+        99,
+        98,
+        98,
+        91,
+        78
+      ],
+      "total": 900
+    },
+    {
+      "date": "2026-07-14",
+      "player": "Nonni Murphy",
+      "rounds": [
+        87,
+        98,
+        84,
+        93,
+        80
+      ],
+      "total": 872
+    },
+    {
+      "date": "2026-07-15",
+      "player": "Brennan Murphy",
+      "rounds": [
+        100,
+        98,
+        90,
+        93,
+        89
+      ],
+      "total": 924
+    },
+    {
+      "date": "2026-07-15",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        98,
+        100,
+        97,
+        98
+      ],
+      "total": 983
+    },
+    {
+      "date": "2026-07-15",
+      "player": "Danny Murphy",
+      "rounds": [
+        94,
+        98,
+        100,
+        97,
+        86
+      ],
+      "total": 941
+    },
+    {
+      "date": "2026-07-15",
+      "player": "Frank Murphy",
+      "rounds": [
+        100,
+        99,
+        100,
+        84,
+        90
+      ],
+      "total": 921
+    },
+    {
+      "date": "2026-07-15",
+      "player": "Nonni Murphy",
+      "rounds": [
+        99,
+        97,
+        93,
+        95,
+        80
+      ],
+      "total": 907
     }
   ]
 }

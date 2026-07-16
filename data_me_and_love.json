@@ -1,0 +1,226 @@
+{
+  "chat": "Me and Love",
+  "exported_at": "2026-07-15 18:15:31",
+  "players": [
+    "Conor Murphy",
+    "Zoe Costello"
+  ],
+  "scores": [
+    {
+      "date": "2026-07-01",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        100,
+        100,
+        57,
+        63
+      ],
+      "total": 760
+    },
+    {
+      "date": "2026-07-01",
+      "player": "Zoe Costello",
+      "rounds": [
+        100,
+        100,
+        92,
+        50,
+        72
+      ],
+      "total": 750
+    },
+    {
+      "date": "2026-07-02",
+      "player": "Zoe Costello",
+      "rounds": [
+        89,
+        91,
+        98,
+        85,
+        64
+      ],
+      "total": 823
+    },
+    {
+      "date": "2026-07-03",
+      "player": "Conor Murphy",
+      "rounds": [
+        99,
+        89,
+        77,
+        10,
+        89
+      ],
+      "total": 639
+    },
+    {
+      "date": "2026-07-03",
+      "player": "Zoe Costello",
+      "rounds": [
+        98,
+        91,
+        74,
+        14,
+        91
+      ],
+      "total": 652
+    },
+    {
+      "date": "2026-07-04",
+      "player": "Zoe Costello",
+      "rounds": [
+        100,
+        93,
+        100,
+        83,
+        61
+      ],
+      "total": 825
+    },
+    {
+      "date": "2026-07-05",
+      "player": "Conor Murphy",
+      "rounds": [
+        97,
+        89,
+        11,
+        72,
+        99
+      ],
+      "total": 721
+    },
+    {
+      "date": "2026-07-06",
+      "player": "Conor Murphy",
+      "rounds": [
+        94,
+        96,
+        97,
+        100,
+        5
+      ],
+      "total": 699
+    },
+    {
+      "date": "2026-07-06",
+      "player": "Zoe Costello",
+      "rounds": [
+        97,
+        93,
+        97,
+        32,
+        51
+      ],
+      "total": 633
+    },
+    {
+      "date": "2026-07-07",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        97,
+        94,
+        91,
+        7
+      ],
+      "total": 679
+    },
+    {
+      "date": "2026-07-07",
+      "player": "Zoe Costello",
+      "rounds": [
+        100,
+        93,
+        57,
+        91,
+        7
+      ],
+      "total": 601
+    },
+    {
+      "date": "2026-07-08",
+      "player": "Conor Murphy",
+      "rounds": [
+        98,
+        90,
+        97,
+        90,
+        95
+      ],
+      "total": 937
+    },
+    {
+      "date": "2026-07-08",
+      "player": "Zoe Costello",
+      "rounds": [
+        98,
+        93,
+        94,
+        92,
+        87
+      ],
+      "total": 916
+    },
+    {
+      "date": "2026-07-09",
+      "player": "Conor Murphy",
+      "rounds": [
+        97,
+        81,
+        20,
+        87,
+        82
+      ],
+      "total": 725
+    },
+    {
+      "date": "2026-07-09",
+      "player": "Zoe Costello",
+      "rounds": [
+        90,
+        80,
+        60,
+        77,
+        70
+      ],
+      "total": 731
+    },
+    {
+      "date": "2026-07-14",
+      "player": "Conor Murphy",
+      "rounds": [
+        99,
+        99,
+        95,
+        80,
+        80
+      ],
+      "total": 868
+    },
+    {
+      "date": "2026-07-15",
+      "player": "Conor Murphy",
+      "rounds": [
+        100,
+        98,
+        100,
+        97,
+        98
+      ],
+      "total": 983
+    },
+    {
+      "date": "2026-07-15",
+      "player": "Zoe Costello",
+      "rounds": [
+        97,
+        98,
+        100,
+        91,
+        80
+      ],
+      "total": 908
+    }
+  ]
+}
